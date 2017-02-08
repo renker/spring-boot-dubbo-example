@@ -17,10 +17,12 @@
   <modules>
   	<module>spring-boot-renker-redis-starter</module>
   	<module>spring-boot-renker-dubbo-starter</module>
+  	<module>spring-boot-renker-shiro-starter</module>
   </modules>
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <org.apache.shiro.version>1.2.4</org.apache.shiro.version>
     <spring-boot-renker.version>0.0.1</spring-boot-renker.version>
   </properties>
   
