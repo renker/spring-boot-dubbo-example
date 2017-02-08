@@ -16,7 +16,6 @@
   
   <modules>
   	<module>spring-boot-renker-redis-starter</module>
-  	<module>spring-boot-renker-redistest</module>
   	<module>spring-boot-renker-dubbo-starter</module>
   </modules>
   
